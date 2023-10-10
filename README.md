@@ -1,26 +1,31 @@
 ![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/381a326d-736b-4459-b516-773a6180ac9b)
 
-DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
+# DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
 
-# Análisis de Accidentes Aéreos desde el Siglo XX
+# CONTEXTO - ROL - TAREA A DESARROLLAR
 
-Este proyecto tiene como objetivo realizar un análisis exhaustivo de los accidentes aéreos que han ocurrido desde principios del siglo XX y obtener un análisis de datos relacionado a estos incidentes. Para ello, además del análisis, se creará un dashboard interactivo en la herramienta Power BI, complementando así los análisis con visualizaciones informativas.
+CONTEXTO
+La aviación es una industria que ha transformado nuestra forma de viajar y ha desempeñado un papel fundamental en la conectividad global, desde hace muchisimos años. Se entiende por aviación al diseño, desarrollo, fabricación, producción, operación y utilización para fines privados o comerciales de aeronaves, especialmente las más pesadas que el aire . Sin embargo, así como la aviación existe desde hace muchisimo tiempo y nos ha traido muchisimas ventajas, también nacieron con ella los accidentes aéreos.
+Nos referimos a accidentes aéreos cuando hablamos de eventos inesperados que involucran aeronaves y pueden tener graves consecuencias en términos de vidas humanas y pérdidas materiales. 
+
+La causa de los accidentes aéreos puede ser diversa y variar. Las consecuencias de estos accidentes pueden ser significativas tanto en términos de pérdidas humanas como en pérdidas económicas. Es por esta razón que siempre existe la preocupación continua de mejorar la seguridad de la aviación y trabajar para mejorar día a día lo que es la seguridad aeronáutica. Para estos fines mencionados es que se desarrolló el presente proyecto. 
+
+Rol a Desarrollar
+En este proyecto, nos meteremos en el papel de explorar y analizar datos relacionados con accidentes aéreos que han ocurrido desde principios del siglo XX. El objetivo es realizar un análisis exhaustivo de los accidentes aéreos que han ocurrido desde principios del siglo XX y obtener un análisis de datos relacionado a estos incidentes. Para ello, además del análisis, se creará un dashboard interactivo en la herramienta Power BI, complementando así los análisis con visualizaciones informativas.
 
 ## Descripción
 
-El análisis de accidentes aéreos es crucial para comprender la seguridad en la aviación y aprender de eventos pasados. Este proyecto se centra en la exploración y el análisis de datos detallados sobre accidentes de aviones, lo que incluye información sobre fechas, ubicaciones, aerolíneas, tipos de aeronaves, número total de personas a bordo, fatalidades, supervivientes y mucho más.
+El análisis de accidentes aéreos es crucial para comprender la seguridad en la aviación y aprender de eventos pasados. Este proyecto se centra en la exploración y el análisis de datos detallados sobre accidentes de aviones, lo que incluye información sobre fechas (análisis de tiempo), ubicaciones, aerolíneas, tipos de aeronaves, número total de personas a bordo, fatalidades, supervivientes y mucho más.
 
 ## Objetivos
 
-- Investigar en profundidad los accidentes aéreos ocurridos desde principios del siglo XX.
+- Investigar en profundidad los accidentes aéreos ocurridos desde principios del siglo XX hasta la actualidad.
 - Realizar un análisis exploratorio de datos para identificar patrones, tendencias y relaciones en los incidentes.
 - Crear un dashboard interactivo en Power BI que complemente los análisis con visualizaciones informativas y útiles.
 
 ## Contenido
 
-- **Jupyter Notebook (EDA)**: Este proyecto incluye un Jupyter Notebook que contiene el código Python utilizado para realizar el análisis exploratorio de datos. Para tal fin se utilizan librerías como Pandas, Numpy, Matplotlib, Seaborn, Sklearn, entre otras para el análisis y visualización de datos.
-
-- **ETL con Python**: El proceso ETL (Extract, Transform, Load) se documenta en el archivo [ETL.py](ETL.py), donde se muestran las tareas de extracción, transformación y carga de los datos en el DataFrame.
+- **EDA (Análisis exploratior de datos) y ETL (Extract, Transform, Load)**: Este proyecto incluye un Jupyter Notebook que contiene el código Python utilizado para realizar el análisis exploratorio de datos y asimismo el proceso de ETL. Para tales fines se utilizan librerías como Pandas, Numpy, Matplotlib, Seaborn, Sklearn, entre otras para el análisis y visualización de datos.
 
 - **Power BI Analysis**: Los resultados del EDA se importan y se realizan análisis más avanzados en Power BI. Se utiliza Power BI para crear visualizaciones interactivas y realizar un análisis más profundo de los datos.
 
