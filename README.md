@@ -1,4 +1,4 @@
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d12a3b55-7adc-4d94-a362-415bbcd00ddc)![image]
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/3374d571-0032-4d61-b34d-9e335d16d019)
 
 
 # HENRY - DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
