@@ -1,4 +1,4 @@
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/36f55d00-d9d8-443c-bad3-dbae0c8f9167)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d12a3b55-7adc-4d94-a362-415bbcd00ddc)![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/36f55d00-d9d8-443c-bad3-dbae0c8f9167)
 
 
 # HENRY - DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
@@ -29,15 +29,34 @@ El análisis de accidentes aéreos es crucial para comprender la seguridad en la
 
 ## Contenido
 
-- **EDA (Análisis exploratorio de datos) y ETL (Extract, Transform, Load)**: Este proyecto incluye un Jupyter Notebook que contiene el código Python utilizado para realizar el análisis exploratorio de datos y asimismo el proceso de ETL. Para tales fines se utilizan librerías como Pandas, Numpy, Matplotlib, Seaborn, Sklearn, entre otras para el análisis y visualización de datos. Aquí en particular se hicieron tareas de análisis, limpieza, agregaciones y conclusiones puntuales para cada variable y/o columna interviniente en el dataframe brindado. El objetivo ulterior es dejar la información lista para ser consumida para las visualizaciones.
+- **EDA (Análisis exploratorio de datos) y ETL (Extract, Transform, Load)**: Este proyecto incluye un [Jupyter Notebook](https://github.com/lucasj23/Proyecto_DA/blob/main/AccidentesAereos.ipynb) que contiene el código Python utilizado para realizar el análisis exploratorio de datos y asimismo el proceso de ETL. Para tales fines se utilizan librerías como Pandas, Numpy, Matplotlib, Seaborn, Sklearn, entre otras para el análisis y visualización de datos. Aquí en particular se hicieron tareas de análisis, limpieza, agregaciones y conclusiones puntuales para cada variable y/o columna interviniente en el dataframe brindado. El objetivo ulterior es dejar la información lista para ser consumida para las visualizaciones.
 
-- **Power BI Analysis**: Los resultados del EDA y ETL se importan y se realizan análisis más avanzados en Power BI. Se utiliza Power BI para crear visualizaciones interactivas y realizar un análisis más profundo de los datos, visualizando gráficos interactivos, con filtros y segmentaciones que afectan globalmente a todos los puntos de cada página, mostrando las diferencias y similitudes en cada visualización, siempre buscando la mejor asimilación de la información proporcionada, a través de las visuales. 
+- **Power BI Analysis**: Los resultados del EDA y ETL se importan y se realizan análisis más avanzados en Power BI mediante la creación de un [dashboard interactivo](https://github.com/lucasj23/Proyecto_DA/blob/main/Dashboard%20Accidentes%20Aereos%20Mundiales.pbix). Se utiliza Power BI para crear visualizaciones interactivas y realizar un análisis más profundo de los datos, visualizando gráficos interactivos, con filtros y segmentaciones que afectan globalmente a todos los puntos de cada página, mostrando las diferencias y similitudes en cada visualización, siempre buscando la mejor asimilación de la información proporcionada, a través de las visuales. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## EDA (Análisis exploratorio de datos)
 
 ![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/50d4ccfc-0b66-45ea-85ad-7088debdaa73)
 
+Consideraciones generales: 
+- Procedimos a eliminar en primer lugar, ciertas columnas innecesarias que no iban a ser útiles para nuestro análisis. Además, creamos un diccionario de datos para poder explicar a grandes rasgos que es lo que entendíamos que significaba cada columna.
+- Se examinó columna por columna, de principio a fin del dataframe, en búsqueda de valores duplicados y nulos tratándose los respectivos encontrados y eliminando otros en ciertos casos.
+- Creación de nuevas columnas: se añadieron las columnas 'country', 'surface', 'category', 'brand', 'survivors' y columnas de jerarquía de fechas para poder realizar ciertas visualizaciones utilizando períodos de tiempo.
+- Realizamos nubes de palabras con determinadas columnas y variables para poder entender de un vistazo que palabras eran las más repetidas, para considerarlas luego en nuestro análisis.
+- Para más información y profundidad en el análisis, siempre se recomienda ingresar al [notebook](https://github.com/lucasj23/Proyecto_DA/blob/main/AccidentesAereos.ipynb)
+
+### Medidas descriptivas y Outliers: Matriz de correlación y Análisis Temporal
+
+Mostraremos a modo de síntesis, los resultados obtenidos del análisis de la relación que encontamos entre las variables númericas de nuestro dataframe brindado, y además luego mostraremos la evolución de los accidentes a lo largo de los años. Para más detalles, se recomienda siempre ingresar al [notebook](https://github.com/lucasj23/Proyecto_DA/blob/main/AccidentesAereos.ipynb). 
+
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d1418709-f858-4696-9d35-7f994229c6c6)
+
+Impresiones de la matriz:
+- Vemos que los valores más altos en la matriz de correlación se dan entre la cantidad de pasajeros a bordo y el total de muertos por accidente, incluyendo tripulación y pasajeros. Estos valores mas altos significan que en el total de muertos por accidente, un gran porcentaje de ese número lo conforman los pasajeros a bordo. 
+- Vemos también que en cuanto a sobrevivientes de los accidentes en promedio, tenemos mas cantidad de pasajeros en comparación con miembros de la tripulación. Pero cuidado, esto también se debe a que tenemos más pasajeros en promedio por vuelo, que miembros de tripulación. 
+- Además, vemos que en cuanto a total_killed_groud, es decir las personas fallecidas que no viajaban en el avión partícipe del accidente, el resto de las variables tienen muy poca relación con ella.
+
+  
 
 
 
@@ -50,12 +69,12 @@ El análisis de accidentes aéreos es crucial para comprender la seguridad en la
 
 
 
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/2509c11a-0628-448c-85df-c37b89f1d328)
+
 
 ## Dashboard e Insights
 
-
-En el archivo ‘Dashboard – Accidentes Aereos’ (informe de Power BI) se encontrarán las visualizaciones interactivas y análisis avanzado. El dashboard consta de 1 portada y 5 páginas navegables. Se incluyen las siguientes páginas:
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/2509c11a-0628-448c-85df-c37b89f1d328)
+En el archivo [Dashboard Accidentes Aereos Mundiales](https://github.com/lucasj23/Proyecto_DA/blob/main/Dashboard%20Accidentes%20Aereos%20Mundiales.pbix) (informe de Power BI) se encontrarán las visualizaciones interactivas y análisis avanzado. El dashboard consta de 1 portada y 5 páginas navegables. Se incluyen las siguientes páginas:
 
 Página 1: Resumen General: Resumen de estadísticas clave y una visión general de los accidentes aéreos, siempre con el foco puesto en la segmentación por país. 
 
