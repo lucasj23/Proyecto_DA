@@ -42,24 +42,25 @@ En el archivo ‘Dashboard – Accidentes Aereos’ (informe de Power BI) se enc
 
 Página 1: Resumen General: Resumen de estadísticas clave y una visión general de los accidentes aéreos, siempre con el foco puesto en la segmentación por país. 
 
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/374c0441-0b78-4ad0-bfb2-124c8c59cb95)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d0ff76fa-78fa-47a4-b200-952c1bb79a57)
+
 
 Conclusiones:
 -  Se pueden observar los accidentes y fallecidos en total (incluyendo tanto pasajeros a bordo, como tripulación a bordo) por país, pudiendo filtrar a su vez por cada país que se quiera elegir. Cabe destacar que, lógicamente y como se explico, al seleccionar alguno o varios de estos filtros mencionados, el resto de la página se ve modificada acorde los datos en particular para ese filtro que se elija, es decir se vuelve interactivo. A su vez, la plantilla incluye otro filtro respecto al año en particular, la categoría del vuelo y lugar del accidente. 
 -  Incluimos además un mapa también interactivo respecto al país que estemos segmentando, lo que nos sirve para ubicarnos respecto a la localizacion de los accidentes. Las burbujas mas grandes nos sirven para identificar mayores números o cantidades en las variables que filtramos, muy significativo si queres plasmarlo en un mapa geolocalizado. 
--  También se visualizan tarjetas que muestran la cantidad de accidentes historicamente, la cantidad de paises involucrados o que han tenido accidentes a lo largo de la historia y el total de personas que se han visto involucradas (es decir a bordo de aviones que han sufrido accidentes). Vemos que son numeros relativamente altos, tanto la cantidad de accidentes historicos, como las personas involucradas (estamos hablando de millones) y fallecimientos, como la cantidad de paises. 
+-  También se visualizan tarjetas que muestran la cantidad de accidentes historicamente, la cantidad de paises involucrados o que han tenido accidentes a lo largo de la historia y el total de personas que se han visto involucradas (es decir a bordo de aviones que han sufrido accidentes). Vemos que son numeros relativamente altos, tanto la cantidad de accidentes historicos, como las personas involucradas (estamos hablando de miles de personas) y fallecimientos, como la cantidad de paises. 
 -  Podemos observar a Estados Unidos como el país con mayor cantidad de accidentes a lo largo de la historia y Rusia como el segundo. También tienen el mismo puesto en el ranking de cantidad de personas fallecidas.  
 
 
 
 Página 2: Análisis Temporal: Visualización de la distribución de accidentes aéreos a lo largo del tiempo. 
 
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/e4e80c98-386a-4f4a-8619-7422f99c74e9)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/a7a8fc55-158b-4c39-856e-c321063c85ff)
 
 
 Conclusiones:
 - Aquí analizamos precisamente como ha evolucionado cada variable a lo largo del tiempo. Si bien lo dejamos configurado por defecto para que nos muestre la información relativa a los últimos 20 años, que es lo que nos interesaba averiguar en nuestro KPI principal, podemos visualizar la distribución desde el primer accidente registrado en el año 1908 hasta el último registrado en el año 2021.
-- Visualizamos que en los ultimos 20 años se han registrado 690 accidentes, y ha habido más de 70.000 sobrevivientes respecto al total de personas que han ido a bordo. Dato no menor, considerando que la tasa de mortalidad de pasajeros asciende a casi el 70% (fórmula de fallecidos sobre el total de pasajeros a bordo).
+- Visualizamos que en los ultimos 20 años se han registrado 697 accidentes, y ha habido más de 7.000 sobrevivientes respecto al total de personas que han ido a bordo. Dato no menor, considerando que la tasa de mortalidad de pasajeros asciende a casi el 70% (fórmula de fallecidos sobre el total de pasajeros a bordo).
 - También vemos que hay una clara tendencia a la baja en la cantidad de accidentes a medida que nos acercamos a la actualidad. El pico de los últimos 20 años se puede observar en 2003 con 62 accidentes, y desde ahí hasta el año 2021 se puede observar como ha ido disminuyendo la cantidad de accidentes relativamente a medida que transcurren los años, llegando a registrarse solo 7 accidentes en el último año. Esto significaría, comparando los dos puntos (el más alto en 2003 y el más bajo en 2001) casi 9 veces menos accidentes, un dato muy importante.
 - También vemos, que en promedio, la tasa de supervivencia de los accidentes de los últimos 20 años ha sido practicamente del 30%. Esto significa que -en promedio, aclaramos nuevamente-, de cada 100 personas que han viajado a bordo de una aeronave que se ha visto accidentada, 30 personas se han salvado, es decir han sobrevivido. Esto es incluyendo tanto pasajeros como tripulación a bordo.
 
