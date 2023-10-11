@@ -54,21 +54,25 @@ Conclusiones:
 
 Página 2: Análisis Temporal: Visualización de la distribución de accidentes aéreos a lo largo del tiempo. 
 
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/8b194e59-5998-4720-81b3-0914372e375f)
-
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/e4e80c98-386a-4f4a-8619-7422f99c74e9)
 
 
 Conclusiones:
 - Aquí analizamos precisamente como ha evolucionado cada variable a lo largo del tiempo. Si bien lo dejamos configurado por defecto para que nos muestre la información relativa a los últimos 20 años, que es lo que nos interesaba averiguar en nuestro KPI principal, podemos visualizar la distribución desde el primer accidente registrado en el año 1908 hasta el último registrado en el año 2021.
 - Visualizamos que en los ultimos 20 años se han registrado 690 accidentes, y ha habido más de 70.000 sobrevivientes respecto al total de personas que han ido a bordo. Dato no menor, considerando que la tasa de mortalidad de pasajeros asciende a casi el 70% (fórmula de fallecidos sobre el total de pasajeros a bordo).
 - También vemos que hay una clara tendencia a la baja en la cantidad de accidentes a medida que nos acercamos a la actualidad. El pico de los últimos 20 años se puede observar en 2003 con 62 accidentes, y desde ahí hasta el año 2021 se puede observar como ha ido disminuyendo la cantidad de accidentes relativamente a medida que transcurren los años, llegando a registrarse solo 7 accidentes en el último año. Esto significaría, comparando los dos puntos (el más alto en 2003 y el más bajo en 2001) casi 9 veces menos accidentes, un dato muy importante.
-- También vemos, que en promedio, la tasa de supervivencia de los accidentes de los últimos 20 años ha sido del 30%. Esto significa que -en promedio, aclaramos nuevamente-, de cada 100 personas que han viajado a bordo de una aeronave que se ha visto accidentada, 30 personas se han salvado, es decir han sobrevivido. Esto es incluyendo tanto pasajeros como tripulación a bordo.
-- 
+- También vemos, que en promedio, la tasa de supervivencia de los accidentes de los últimos 20 años ha sido practicamente del 30%. Esto significa que -en promedio, aclaramos nuevamente-, de cada 100 personas que han viajado a bordo de una aeronave que se ha visto accidentada, 30 personas se han salvado, es decir han sobrevivido. Esto es incluyendo tanto pasajeros como tripulación a bordo.
 
 
 
 Página 3: Análisis de Supervivencia: Información sobre la supervivencia de pasajeros y miembros de la tripulación en diferentes escenarios.
 
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/8bb604f5-95e7-46be-9b4f-e34f553646c6)
+
+
+Conclusiones: 
+- Aquí visualizamos la información relacionada con las marcas de Aeronaves y Operadores/Aerolineas que mas participaciones han tenido en accidentes. Eso también se ve reflejada en la categoría del vuelo (militar/no militar) y en la aeronave en particular.
+- Podemos visualizar claramente que el 
 
 
 Contribuciones
