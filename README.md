@@ -1,4 +1,4 @@
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d12a3b55-7adc-4d94-a362-415bbcd00ddc)![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/36f55d00-d9d8-443c-bad3-dbae0c8f9167)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d12a3b55-7adc-4d94-a362-415bbcd00ddc)![image]
 
 
 # HENRY - DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
@@ -57,18 +57,13 @@ Impresiones de la matriz:
 - Además, vemos que en cuanto a total_killed_groud, es decir las personas fallecidas que no viajaban en el avión partícipe del accidente, el resto de las variables tienen muy poca relación con ella.
 
   
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/24c67b08-fe4d-4584-8cb8-5b8c80ec41df)
 
-
-
-
-
-
-
-
-
-
-
-
+- Podemos observar que a partir de 1908 la tendencia comenzó fuertemente alcista hasta llegar a 1946 donde tuvimos el máximo histórico. La tendencia marcó una consolidación entre 1946 y el año 2000, con máximos entre 70 y 80 en cuanto al número de accidentes. 
+- Finalmente, comienza una tendencia a la baja a partir de 1990.
+Para los últimos años del dataset, desde 2018 en adelante, la cantidad de accidentes se encuentra en mínimos históricos. 
+- La media móvil de 10 años resulta un factor importante a considerar, puesto que todas las veces que hemos estado por encima de la misma, los accidentes logicamente han sido altos en cantidad.
+- Además, la línea verde del promedio total (es decir contabilizando todos los años de principio a fin), nos da un parámetro de como ha evolucionado esto desde mínimos historicos, bien lejos de ese valor a principios del siglo XX, pasando a superarlo por muchísima diferencia a partir de la decada del 30', para luego volver a alejarse de esa referencia en los últimos años, época en que ha habido muy baja cantidad de accidentes. 
 
 
 ## Dashboard e Insights
