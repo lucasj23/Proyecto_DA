@@ -1,4 +1,5 @@
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/381a326d-736b-4459-b516-773a6180ac9b)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/36f55d00-d9d8-443c-bad3-dbae0c8f9167)
+
 
 # DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
 
