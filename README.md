@@ -2,7 +2,7 @@
 
 # DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
 
-# CONTEXTO - ROL - TAREA A DESARROLLAR
+# Contexto - Rol - Tarea a desarrollar
 
 La aviación es una industria que ha transformado nuestra forma de viajar y ha desempeñado un papel fundamental en la conectividad global, desde hace muchisimos años. Se entiende por aviación al diseño, desarrollo, fabricación, producción, operación y utilización para fines privados o comerciales de aeronaves, especialmente las más pesadas que el aire . Sin embargo, así como la aviación existe desde hace muchisimo tiempo y nos ha traido muchisimas ventajas, también nacieron con ella los accidentes aéreos.
 Nos referimos a accidentes aéreos cuando hablamos de eventos inesperados que involucran aeronaves y pueden tener graves consecuencias en términos de vidas humanas y pérdidas materiales. 
@@ -72,7 +72,12 @@ Página 3: Análisis de Supervivencia: Información sobre la supervivencia de pa
 
 Conclusiones: 
 - Aquí visualizamos la información relacionada con las marcas de Aeronaves y Operadores/Aerolineas que mas participaciones han tenido en accidentes. Eso también se ve reflejada en la categoría del vuelo (militar/no militar) y en la aeronave en particular.
-- Podemos visualizar claramente que el 
+- Podemos visualizar claramente que la marca de Aeronaves 'McDonell Douglas' fue por mucha diferencia, la que más accidentes registró a lo largo de la historia. A su vez, la Aeronave en particular 'Douglas DC-3' fue la que más accidentes y fallecimientos registró.
+- Podemos decir entonces, relacionando ambas variables (Marca - Aeronave) que los aviones Douglas resultaron, a lo largo de la historia, los aviones con más cantidad de siniestros. Esto se concluye porque, según se pudo averiguar, el fabricante de aviones Douglas Aircraft Company (conocido comúnmente como Douglas) dejó de existir como entidad independiente en 1967. En ese año, se fusionó con McDonnell Aircraft Corporation para formar McDonnell Douglas Corporation. 
+A su vez, McDonnell Douglas fue adquirida por The Boeing Company en 1997.
+- En conclusión, tanto McDonell, Douglas y Boeing, han estado relacionados a lo largo de los ultimos 60-70 años y podemos decir que han presentado un elevado número de siniestros comparados con el resto de las marcas.
+- Asimismo, la aerolínea 'Aeroflot' y la Fuerza Aerea americana son los dos operadores que mas preponderan también a la hora de contabilizar accidentes.
+- Claramente se ve también que, a lo largo de los años, la mayor cantidad de accidentes han sido de origen No Militar (casi un 85% del total de accidentes).
 
 
 Contribuciones
