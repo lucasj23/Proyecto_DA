@@ -86,20 +86,20 @@ Página 4: KPI Evaluar la disminución de un 10% de la tasa de fatalidad de la t
 
 ![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/bd79e952-27fc-4707-941d-11c2097451ef)
 Conclusiones: 
-- En primer lugar, tomamos como punto de partida que la tasa se calcula dividiendo el total de tripulantes fallecidos en un lapso de 10 años, sobre la cantidad total de accidentes que ocurrieron en ese lapso de 10 años.
+- En primer lugar, tomamos como punto de partida que la tasa en cuestión se calcula dividiendo el total de tripulantes fallecidos en un lapso de 10 años, sobre la cantidad total de accidentes que ocurrieron en ese lapso de 10 años.
 - Como se ve, en la década desde 2001 a 2010, la tasa fue de 32,6 %, en comparación con la década siguiente, que fue de 36,6 %. Esto significa, que nuestro KPI no fue alcanzado.
 - Como dato extra se puede visualizar la evolución de la cantidad de accidentes y tripulantes fallecidos a lo largo de ambas décadas.
 - Lo más importante a considerar es que, si bien ambas tasas son practicamente similares en términos relativos, son muy diferentes en términos absolutos. Esto se concluye porque si analizamos la primer década (2001-2010) ocurrieron 484 accidentes y fallecieron 157 tripulantes. Ahora, si comparamos la década siguiente, los numeros se reducen practicamente a un valor cercano a la mitad, ya que tenemos 78 tripulantes fallecidos y 213 accidentes.
 - Esto significa, que en términos absolutos, los accidentes se redujeron considerablemente, aún a pesar de que el KPI propuesto no fue alcanzado. 
 
 
+Página 5: KPI Evaluar la disminución de la cantidad de Accidentes por año en Estados Unidos. Objetivo: reducir en un 5% la cantidad de accidentes en los últimos 20 años.
+
+
+
+
+
 Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de crear una bifurcación (fork) y enviar solicitudes de extracción (pull requests). Cualquier aportación, ya sea en forma de correcciones, mejoras o nuevas ideas, es bienvenida.
-
-Licencia
-Este proyecto se encuentra bajo la licencia MIT. Si deseas utilizar o modificar este código, por favor, consulta la licencia para obtener más detalles.
-
-Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto a través de [tu-email@example.com].
 
 ¡Esperamos que este análisis de accidentes aéreos y el informe de Power BI sean útiles y enriquecedores! Gracias por tu interés en este proyecto.
