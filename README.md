@@ -1,7 +1,7 @@
 ![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/36f55d00-d9d8-443c-bad3-dbae0c8f9167)
 
 
-# DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
+# HENRY - DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
 
 # Contexto - Rol - Tarea a desarrollar
 
@@ -36,6 +36,7 @@ El análisis de accidentes aéreos es crucial para comprender la seguridad en la
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## EDA (Análisis exploratorio de datos)
 
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/50d4ccfc-0b66-45ea-85ad-7088debdaa73)
 
 
 
