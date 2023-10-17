@@ -69,7 +69,7 @@ Para los últimos años del dataset, desde 2018 en adelante, la cantidad de acci
 ## Dashboard e Insights
 
 ![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/2509c11a-0628-448c-85df-c37b89f1d328)
-En el dashboard interactivo (informe de Power BI) se encontrarán las visualizaciones y análisis avanzado. El dashboard consta de 1 portada y 5 páginas navegables. Se incluyen las siguientes páginas:
+En el [dashboard interactivo](https://github.com/lucasj23/Proyecto_DA/blob/main/Dashboard%20-%20Accidentes%20Aereos%20Mundiales.pbix) (informe de Power BI) se encontrarán las visualizaciones y análisis avanzado. El dashboard consta de 1 portada y 5 páginas navegables. Se incluyen las siguientes páginas:
 
 Página 1: Resumen General: Resumen de estadísticas clave y una visión general de los accidentes aéreos, siempre con el foco puesto en la segmentación por país. 
 
