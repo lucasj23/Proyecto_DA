@@ -73,7 +73,7 @@ En el dashboard interactivo (informe de Power BI) se encontrarán las visualizac
 
 Página 1: Resumen General: Resumen de estadísticas clave y una visión general de los accidentes aéreos, siempre con el foco puesto en la segmentación por país. 
 
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d0ff76fa-78fa-47a4-b200-952c1bb79a57)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/bcdb64ff-5351-48ab-ba44-884622f40cec)
 
 
 Conclusiones:
@@ -97,8 +97,7 @@ Conclusiones:
 
 
 
-Página 3: Análisis de Supervivencia: Información sobre la supervivencia de pasajeros y miembros de la tripulación en diferentes escenarios.
-
+Página 3: Análisis de Aeronaves y Operadores/Aerolíneas. Analizamos los accidentes y fallecimientos 
 ![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/8bb604f5-95e7-46be-9b4f-e34f553646c6)
 
 
@@ -115,7 +114,8 @@ A su vez, McDonnell Douglas fue adquirida por The Boeing Company en 1997.
 Página 4: KPI Evaluar la disminución de un 10% de la tasa de fatalidad de la tripulación en los últimos 10 años, en comparación con la decáda anterior (en relación a la cantidad de accidentes)
 
 
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d9ec3fdc-7444-473c-ace2-3a1f5a1fcd26)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/d9c89c2f-3d37-4b1c-8734-9dfc4683f457)
+
 
 Conclusiones: 
 - En primer lugar, tomamos como punto de partida que la tasa en cuestión se calcula dividiendo el total de tripulantes fallecidos en un lapso de 10 años, sobre la cantidad total de accidentes que ocurrieron en ese lapso de 10 años.
@@ -127,16 +127,14 @@ Conclusiones:
 
 Página 5: KPI Evaluar la disminución de la cantidad de Accidentes por año en Estados Unidos. Objetivo: reducir en un 5% la cantidad de accidentes en los últimos 20 años.
 
-![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/c2feb0a6-5e60-4144-ad7a-b3e1be6d25da)
+![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/c228901f-51bd-4acf-8de9-a54220e788e8)
+
 
 Conclusiones: 
-- Vemos aquí, en relación a nuestro segundo KPI, que la tasa de accidentes que ocurrieron involucrando a Estados Unidos, es relativamente baja, pero los números absolutos demuestran que ha tenido gran cantidad de accidentes en relación al total.
-- Además, comparamos como han evolucionado los accidentes en Estados Unidos en los últimos 20 años, en comparación con el total de los países.
-- Nuevamente podemos segmentar, y vemos que entre ambas décadas, en la decada más contemporanea la tasa de accidentes se redujo, por lo que nuestro KPI pudo ser alcanzado, llegando a superar el 5% que se propuso.
+- Vemos aquí, en relación a nuestro segundo KPI, que la tasa de accidentes por año que ocurrieron involucrando a Estados Unidos es relativamente baja, pero los números absolutos demuestran que ha tenido gran cantidad de accidentes en relación al total contabilizando a todos los países.
+- Además, comparamos como han evolucionado los accidentes en Estados Unidos en los últimos 20 años, en comparación a como han evolucionado en todos los países.
+- Nuevamente podemos segmentar, y vemos que entre ambas décadas, en la decada más contemporánea la tasa de accidentes se redujo, por lo que nuestro KPI pudo ser alcanzado, llegando a superar la disminución del 5% que se propuso.
 - Esto significa que en esta última década, del total de accidentes registrados en todo el mundo, Estados Unidos tiene menos participación en ese registro. Vale aclarar que también tiene mucha importancia resaltar que el número de accidentes se vió reducido a nivel mundial, y no solo en Estados Unidos.
 
-
-Contribuciones
-Si deseas contribuir a este proyecto, siéntete libre de crear una bifurcación (fork) y enviar solicitudes de extracción (pull requests). Cualquier aportación, ya sea en forma de correcciones, mejoras o nuevas ideas, es bienvenida.
 
 ¡Espero que este análisis de accidentes aéreos y el informe de Power BI sean útiles y enriquecedores! Gracias por tu interés en este proyecto.
