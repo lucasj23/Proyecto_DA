@@ -4,7 +4,7 @@
 # HENRY - DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
 
 # Sumario
-En este proyecto, nos situaremos en el papel de un Data Analyst, realizando la exploración y análisis de datos relacionados con accidentes aéreos que han ocurrido desde principios del siglo XX. El objetivo es realizar un análisis exhaustivo de los accidentes aéreos y obtener información relevante relacionada a estos incidentes, a partir de los datos que nos brindan. Para ello, realizaremos inicialmente un análisis exploratorio de los datos, para ver con que nos encontramos, y además de esto se creará luego un dashboard interactivo en la herramienta Power BI, complementando así los análisis con visualizaciones informativas.
+En este proyecto, nos situaremos en el papel de un Data Analyst, realizando la exploración y análisis de datos relacionados con accidentes aéreos que han ocurrido desde principios del siglo XX. El objetivo es realizar un análisis exhaustivo de los accidentes aéreos y obtener información relevante relacionada a estos incidentes, a partir de los datos que nos brindan. Para ello, realizaremos inicialmente un análisis exploratorio de los datos (EDA) utilizando lenguaje Python, para poder comprender con qué datos estamos tratando, y posterior a esto se creará un dashboard interactivo en la herramienta Power BI, complementando así los análisis con visualizaciones informativas.
 
 # Introducción - Contexto - Rol - Tarea a desarrollar
 
