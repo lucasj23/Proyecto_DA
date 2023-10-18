@@ -3,10 +3,10 @@
 
 # HENRY - DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
 
-# Introducción
+# Sumario
 En este proyecto, nos situaremos en el papel de un Data Analyst, realizando la exploración y análisis de datos relacionados con accidentes aéreos que han ocurrido desde principios del siglo XX. El objetivo es realizar un análisis exhaustivo de los accidentes aéreos y obtener información relevante relacionada a estos incidentes, a partir de los datos que nos brindan. Para ello, realizaremos inicialmente un análisis exploratorio de los datos, para ver con que nos encontramos, y además de esto se creará luego un dashboard interactivo en la herramienta Power BI, complementando así los análisis con visualizaciones informativas.
 
-# Contexto - Rol - Tarea a desarrollar
+# Introducción - Contexto - Rol - Tarea a desarrollar
 
 La aviación es una industria que ha transformado nuestra forma de viajar y ha desempeñado un papel fundamental en la conectividad global, desde hace muchisimos años. Se entiende por aviación al diseño, desarrollo, fabricación, producción, operación y utilización para fines privados o comerciales de aeronaves, especialmente las más pesadas que el aire . Sin embargo, así como la aviación existe desde hace muchisimo tiempo y nos ha traido muchisimas ventajas, también nacieron con ella los accidentes aéreos.
 Nos referimos a accidentes aéreos cuando hablamos de eventos inesperados que involucran aeronaves y pueden tener graves consecuencias en términos de vidas humanas y pérdidas materiales. 
