@@ -3,6 +3,9 @@
 
 # HENRY - DATA SCIENCE - PROYECTO INDIVIDUAL Nº2: Data Analytics
 
+# Introducción
+En este proyecto, nos situaremos en el papel de un Data Analyst, realizando la exploración y análisis de datos relacionados con accidentes aéreos que han ocurrido desde principios del siglo XX. El objetivo es realizar un análisis exhaustivo de los accidentes aéreos y obtener información relevante relacionada a estos incidentes, a partir de los datos que nos brindan. Para ello, realizaremos inicialmente un análisis exploratorio de los datos, para ver con que nos encontramos, y además de esto se creará luego un dashboard interactivo en la herramienta Power BI, complementando así los análisis con visualizaciones informativas.
+
 # Contexto - Rol - Tarea a desarrollar
 
 La aviación es una industria que ha transformado nuestra forma de viajar y ha desempeñado un papel fundamental en la conectividad global, desde hace muchisimos años. Se entiende por aviación al diseño, desarrollo, fabricación, producción, operación y utilización para fines privados o comerciales de aeronaves, especialmente las más pesadas que el aire . Sin embargo, así como la aviación existe desde hace muchisimo tiempo y nos ha traido muchisimas ventajas, también nacieron con ella los accidentes aéreos.
@@ -10,7 +13,6 @@ Nos referimos a accidentes aéreos cuando hablamos de eventos inesperados que in
 
 La causa de los accidentes aéreos puede ser diversa y variar. Las consecuencias de estos accidentes pueden ser significativas tanto en términos de pérdidas humanas como en pérdidas económicas. Es por esta razón que siempre existe la preocupación continua de mejorar la seguridad de la aviación y trabajar para mejorar día a día lo que es la seguridad aeronáutica. Para estos fines mencionados es que se desarrolló el presente proyecto. 
 
-En este proyecto, nos situaremos en el papel de exploración y análisis de datos relacionados con accidentes aéreos que han ocurrido desde principios del siglo XX. El objetivo es realizar un análisis exhaustivo de los accidentes aéreos que han ocurrido desde principios del siglo XX y obtener un análisis de datos relacionado a estos incidentes. Para ello, además del análisis, se creará un dashboard interactivo en la herramienta Power BI, complementando así los análisis con visualizaciones informativas.
 
 ![image](https://github.com/lucasj23/Proyecto_DA/assets/131183621/45889498-aedd-4d2f-8ab5-3c2aed4ef6ac)
 
